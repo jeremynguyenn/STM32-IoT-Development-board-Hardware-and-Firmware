@@ -1,0 +1,77 @@
+Comment,Designator,Footprint,LCSC Part #
+4.7uf ,C1,C_0603_1608Metric,C19666
+2.2uf ,"C2,C4",C_0603_1608Metric,C23630
+100nf ,"C3,C5,C6,C7,C8,C13,C14,C19,C27,C33,C39,C40",C_0402_1005Metric,C1525
+1uf ,C9,C_0402_1005Metric,C52923
+10nf ,C10,C_0402_1005Metric,C15195
+12pf ,"C11,C12",C_0402_1005Metric,C1547
+10uf ,"C15,C16,C20,C22,C31",C_0603_1608Metric,C19702
+10pf ,"C17,C23,C24,C25,C26",C_0402_1005Metric,C32949
+30pf ,"C18,C21,C28,C29,C30",C_0402_1005Metric,C1570
+470uf ,"C32,C35",CP_Elec_8x10,C176671
+33pf ,"C34,C36,C38",C_0402_1005Metric,C1562
+10uf ,C37,CP_EIA-3216-18_Kemet-A,C7171
+47uf ,C41,C_1206_3216Metric,C96123
+RED ,"D1,D4",D_0603_1608Metric,C2286
+GREEN ,"D2,D6",LED_0603_1608Metric,C72043
+GREEN ,D3,D_0603_1608Metric,C72043
+BLUE ,D5,LED_0603_1608Metric,C72041
+Yellow ,D7,LED_0603_1608Metric,C72038
+12H1200C ,F1,Fuse_1206_3216Metric,C182310
+BEADS 600 @ 600 MHz ,FB1,L_0805_2012Metric,C1017
+MountingHole_Pad Mounting Hole with connection,"H1,H2",MountingHole_3.2mm_M3_Pad_Via,
+BOOT_RUN ,J1,PinHeader_1x03_P2.54mm_Vertical,
+MCU_USB USB Micro Type B connector,J2,USB_Micro_JLCPCB,C404969
+WIFI ,J3,PinSocket_2x04_P2.54mm_Vertical,
+"GPIO1 Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",J4,PinHeader_2x04_P2.54mm_Vertical,
+U.FL-GPS ,J5,HRS_U.FL-R-SMT(01),C88374
+"GPIO2 Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",J6,PinHeader_2x04_P2.54mm_Vertical,
+Bluetooth ,J7,PinSocket_1x06_P2.54mm_Vertical,
+U.FL-GSM ,J8,HRS_U.FL-R-SMT(01),C88374
+SD_CARD ,J9,PinSocket_1x06_P2.54mm_Vertical,
+SWD ,J10,PinSocket_2x05_P2.54mm_Vertical,
+U.FL-BT ,J11,HRS_U.FL-R-SMT(01),C88374
+"Audio_Jack Audio Jack, 4 Poles (TRRS)",J12,Jack_3.5mm_PJ320D_Horizontal,
+Joystick ,J13,PinSocket_1x05_P2.54mm_Vertical,
+LCD ,J14,PinSocket_1x04_P2.54mm_Vertical,
+CAN ,J15,PinSocket_1x02_P2.54mm_Vertical,
+"DB9 9-pin female D-SUB connector, Mounting Hole",J16,DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm,
+RF ,J17,PinHeader_1x03_P2.54mm_Vertical,
+SIM_USB USB Micro Type B connector,J18,USB_Micro_JLCPCB,C404969
+SIM_Holder SIM Card,J19,FCI_7111S2015X02LF,
+SIM_ADC ,J20,PinHeader_1x02_P2.54mm_Vertical,
+Keypad ,J21,PinSocket_1x08_P2.54mm_Vertical,
+SIM_UART ,J22,PinHeader_1x03_P2.54mm_Vertical,
+SIM_PCM ,J23,PinHeader_1x04_P2.54mm_Vertical,
+SIM_GPIO ,J24,PinHeader_1x02_P2.54mm_Vertical,
+SIM_PWM ,J25,PinHeader_1x02_P2.54mm_Vertical,
+SIM_I2C ,J26,PinHeader_1x02_P2.54mm_Vertical,
+"OBD1H Solder Jumper, 2-pole, open",JP1,PinHeader_1x02_P2.54mm_Vertical,
+"OBD1L Solder Jumper, 2-pole, open",JP2,PinHeader_1x02_P2.54mm_Vertical,
+"OBD1G Solder Jumper, 2-pole, open",JP3,PinHeader_1x02_P2.54mm_Vertical,
+"OBD2H Solder Jumper, 2-pole, open",JP4,PinHeader_1x02_P2.54mm_Vertical,
+"OBD2L Solder Jumper, 2-pole, open",JP5,PinHeader_1x02_P2.54mm_Vertical,
+"OBD2G Solder Jumper, 2-pole, open",JP6,PinHeader_1x02_P2.54mm_Vertical,
+47uh ,L1,L_0805_2012Metric,C14304
+S8050 ,Q1,SOT-23,C2146
+10k ,"R1,R3",R_0603_1608Metric,C25804
+1k ,"R2,R4,R5,R9,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35",R_0603_1608Metric,C21190
+47 ,R6,R_0402_1005Metric,C25118
+120 ,R7,R_0603_1608Metric,C22787
+22 ,"R8,R10,R11,R12,R13,R18,R19,R20",R_0402_1005Metric,C25092
+2.2k ,"R14,R17",R_0603_1608Metric,C4190
+3.6k ,R15,R_0603_1608Metric,C22980
+1.5k ,R16,R_0603_1608Metric,C22843
+4.7k ,R21,R_0603_1608Metric,C23162
+47k ,R22,R_0603_1608Metric,C25819
+5.6k ,"R23,R24,R25",R_0603_1608Metric,C23189
+PWR_BT ,S1,SW_TL3342F160QG,
+"RESET_BT Push button switch, generic, two pins",SW1,SW_1437566-4,
+STM32F405RGT6 ,U1,LQFP-64_10x10mm_P0.5mm,C15742
+SN65HVD230DR ,U2,SOIC127P599X175-8N,C12084
+"LD1117S33TR_SOT223 800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT-223",U3,SOT-223-3_TabPin2,C86781
+USBLC6-2SC6 ,U4,SOT-23-6,C7519
+MIC29302WU-Regulator_Linear ,U5,TO-263-5_TabPin3,C11149
+SMF05CT1G ,U6,SOT65P210X110-6N,C15879
+SIM808 ,U7,XCVR_SIM808,
+16MHz ,Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,C13738

@@ -1,0 +1,2 @@
+Dosyaları açmak için KiCad 5.99 versiyonu kullanılmalı (Aşaığdaki link kullarak güvenli bir şekilde KiCad resmi web sitesinden indirebilirsiniz).
+https://kicad-downloads.s3.cern.ch/index.html?prefix=windows/nightly/

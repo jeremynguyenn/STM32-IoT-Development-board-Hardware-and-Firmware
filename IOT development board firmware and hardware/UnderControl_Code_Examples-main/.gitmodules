@@ -1,0 +1,3 @@
+[submodule "UnderControl_Touch_LCD_LVGL/F407_LCD_TOUCH/LVGL"]
+	path = UnderControl_Touch_LCD_LVGL/F407_LCD_TOUCH/LVGL
+	url = https://github.com/lvgl/lvgl.git
